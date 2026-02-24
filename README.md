@@ -1,8 +1,8 @@
 # Java learning 
 # Learning Besics of the java prog. language...
 
--- Variable\n
--- Operator
--- Strings 
--- Operation 
--- Conditionals --
+- Variable
+- Operator
+- Strings 
+- Operation 
+- Conditionals 
