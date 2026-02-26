@@ -6,3 +6,5 @@
 - Strings 
 - Operation 
 - Conditionals 
+- Taking input 
+- Conditional statments
