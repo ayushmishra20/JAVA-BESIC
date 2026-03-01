@@ -8,3 +8,5 @@
 - Conditionals 
 - Taking input 
 - Conditional statments
+- Learned switch cases
+- learn Arrays 
