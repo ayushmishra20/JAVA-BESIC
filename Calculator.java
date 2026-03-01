@@ -23,18 +23,24 @@ public class Calculator {
             case "sub":
                 System.err.printf("%f - %f = %f", number1 , number2, number1 - number2);
                 break;
+                
             case "mul":
                 System.err.printf("%f * %f = %f", number1 , number2, number1 * number2);
                 break;
+
             case "div":
                 if (number2 == 0) {
                     System.out.println("You Better Know the answer is Infinity...:)");
+                    break;
+
                 } else {
                     System.err.printf("%f / %f = %f", number1 , number2, number1 / number2);
+                    break;
                 }
-                break;
+                
             default:
                 System.out.println("Invalid operation...");
+                break;
         }
         // if (operation.equals("sum")){
         //     System.err.printf("%f + %f = %f", number1 , number2, number1 + number2);
