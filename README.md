@@ -11,3 +11,5 @@
 - Learned switch cases
 - learning Arrays basics
 - Loops of 4 type uses in java language
+- learning Haspmaps
+- learning OOPs of java 
