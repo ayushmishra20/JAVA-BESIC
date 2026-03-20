@@ -48,4 +48,4 @@ Basics → OOP → Collections → Mini Projects
 
 ---
 
-> *"Java is to JavaScript what Car is to Carpet."* 😄 — But both are powerful in their own way! 🚀
+> *"Java is to JavaScript what Car is to Carpet."*  — But both are powerful in their own way!
