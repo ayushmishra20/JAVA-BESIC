@@ -44,7 +44,7 @@ Basics → OOP → Collections → Mini Projects
 ## Author
 
 **Ayush Mishra**
-- GitHub: [@pip-install-ayush](https://github.com/pip-install-ayush)
+- GitHub: [@ayushmishra20](https://github.com/pip-install-ayush)
 
 ---
 
